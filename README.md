@@ -1,3 +1,7 @@
+### Robot Game Jolt Prototype
+an unfinished prototype for a game jolt.
+[demo](http://localhost:3000/standalone-projects/robot-game-jolt)
+
 ### Installing and Running
 
 - npm install
