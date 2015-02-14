@@ -47,7 +47,6 @@
 
         // is character jumping?
         if (this.character.isJumping()) {
-          debugger;
           if (this.character.isDescending() && this.map.positionOnAnyPath(this.character.getPos())) {
             this.character.stopJumping();
           } else {
